@@ -1,2 +1,2 @@
-# Esercitazioni-IA
-repository per esercizi IA con il mio amico dottore E CI SCOPIAMO CLAUDIO
+# Codici_Uni
+repository per codici fatti da noi amici del cuore
