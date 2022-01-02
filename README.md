@@ -1,2 +1,2 @@
 # Codici_Uni
-repository per esercizi IA con il mio amico dottore
+repository per esercizi con il mio amico dottore
